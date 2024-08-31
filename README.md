@@ -41,7 +41,7 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   <br/>
   '핸디'는 다양한 재활 프로그램을 제공합니다. 선택한 운동을 실시하기 전 올바른 동작을 안내하는 재활운동 가이드 동영상도 볼 수 있습니다.
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/d535dcc2-9f0e-4178-9294-c104cf129669" width:"250"/>
+  <img src="https://github.com/user-attachments/assets/d535dcc2-9f0e-4178-9294-c104cf129669" width="250" height="auto"/>
 
 <br/>
 
