@@ -41,6 +41,7 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   <br/>
   '핸디'는 다양한 재활 프로그램을 제공합니다. 선택한 운동을 실시하기 전 올바른 동작을 안내하는 재활운동 가이드 동영상도 볼 수 있습니다.
   <br/><br/>
+  <img src="https://github.com/user-attachments/assets/d535dcc2-9f0e-4178-9294-c104cf129669" width:"250"/>
 
 <br/>
 
@@ -53,11 +54,11 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   유저가 재활운동을 시작하면, 유저의 휴대폰 인앱카메라를 통해 촬영되는 실시간 화면 위에 따라할 동작의 관절 포인트가 렌더링되어 환자가 정확하게 동작을 따라할 수 있도록 훈련을 도와줍니다. 이 기능은 환자가 재활 운동을 올바르게 수행할 수 있도록 하여, 재활 훈련의 효과를 높여줍니다. 또한 모션 캡쳐 시스템을 이용해 사용자의 움직임을 3D로 캡쳐하여 재활 과정에서 올바른 자세와 운동 범위를 유지할 수 있도록 돕습니다. AI가 실시간으로 환자의 동작을 분석하여 정확도를 수치로 제공하며, 부정확한 동작이나 불균형한 자세를 실시간으로 감지하여 교정 안내를 제공합니다.
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/0f1b1775-70c0-4b90-9215-55cbcf5e7a7c" width="500" height="auto"/>
-  </br>:arrow_up_small: 재활운동 시작</br></br>
+  </br>:arrow_up_small: 재활운동 준비</br></br>
   <img src="https://github.com/user-attachments/assets/5e0f5265-babb-49b3-b068-0c4e980e4e1a" width="500" height="auto"/>
   </br>:arrow_up_small: 재활운동 중 - 자세 교정 피드백</br></br>
   <img src="https://github.com/user-attachments/assets/a92711ae-e856-449d-9d89-9eea112e2b39" width="500" height="auto"/>
-  </br>:arrow_up_small: 재활운동 시작 - 긍정적 피드백</br></br>
+  </br>:arrow_up_small: 재활운동 중 - 긍정적 피드백</br></br>
   <img src="https://github.com/user-attachments/assets/bf1f0b00-a769-447d-bf8f-2b7a24f8b041" width="500" height="auto"/>
   </br>:arrow_up_small: 재활운동 완료
 
