@@ -1,16 +1,11 @@
-# Handdy
-AI-based Motion Capture Rehabilitation Assistant Service
-
 <div align="center">
-
-  <img src="https://github.com/user-attachments/assets/ece5f68c-6138-4662-ab98-b5447d61a065" alt="logo" width="400" height="auto" />
   <h1>Handdy</h1>
   
   <p>
     AI-based Motion Capture Rehabilitation Assistant Service
   </p>
 
-  <img src="https://github.com/user-attachments/assets/d6350608-1bc6-469b-8376-22ae86221a39" alt="mockup" width="400" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d6350608-1bc6-469b-8376-22ae86221a39" alt="mockup" width="800" height="auto" />
     
 </div>
 
