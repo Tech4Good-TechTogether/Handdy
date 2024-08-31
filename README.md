@@ -33,6 +33,19 @@ Designed to help individuals reclaim their previous quality of life by enabling 
 <br/>
 
 ### :dart: Features
+- <strong>Progress Tracking and Analysis</strong>
+  <br/>
+  <br/>
+  The service collects users' exercise data to record and analyze progress throughout the rehabilitation process. It tracks the number of repetitions and accuracy of movements as they are using the service. By tracking, it presents the progress through graphs, thereby motivating patients by visually demonstrating their improvement.
+  <br/>
+  <br/>
+  사용자의 운동 데이터를 수집하여 재활 과정에서의 진전 상황을 기록하고 분석합니다. 일주일 동안 진행한 운동 횟수와 하루의 최고 정확도를 표시한 그래프를 제공함으로써 사용자가 본인의 프로그레스와 성장 정도를 한 눈에 파악하고 동기부여되도록 도울 수 있습니다.
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/d9e2498c-e3e6-4c23-a356-a2263560624a" width="250" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/bf96c643-d38c-427c-ba3d-49f873ce587c" width="250" height="auto"/>
+
+</br>
+
 - <strong>Various Interactive Rehabilitation Training Programs & Video Tutorials</strong>
   <br/>
   <br/>
@@ -73,19 +86,6 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   재활운동 중 사용자의 움직임을 실시간으로 모니터링하고 분석하여, 프로그램 종료 후 사용자에게 맞는 재활 프로그램을 추천할 수 있습니다. 예를 들어, 특히 약한 것으로 판단되는 관절이나 잘 다루지 못 하는 근육을 단련할 수 있는 훈련 프로그램을 추천합니다.
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/4f75a972-d1f9-4208-a38c-40343e9709b1" width="250" height="auto"/>
-
-<br/>
-
-- <strong>Progress Tracking and Analysis</strong>
-  <br/>
-  <br/>
-  The service collects users' exercise data to record and analyze progress throughout the rehabilitation process. It tracks the number of repetitions and accuracy of movements as they are using the service. By tracking, it presents the progress through graphs, thereby motivating patients by visually demonstrating their improvement.
-  <br/>
-  <br/>
-  사용자의 운동 데이터를 수집하여 재활 과정에서의 진전 상황을 기록하고 분석합니다. 일주일 동안 진행한 운동 횟수와 하루의 최고 정확도를 표시한 그래프를 제공함으로써 사용자가 본인의 프로그레스와 성장 정도를 한 눈에 파악하고 동기부여되도록 도울 수 있습니다.
-  <br/><br/>
-  <img src="https://github.com/user-attachments/assets/d9e2498c-e3e6-4c23-a356-a2263560624a" width="250" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/bf96c643-d38c-427c-ba3d-49f873ce587c" width="250" height="auto"/>
 
 <br/>
 
