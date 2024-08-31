@@ -40,6 +40,15 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   <br/>
   <br/>
   모션 캡쳐 시스템을 이용해 사용자의 움직임을 3D로 캡쳐하여 재활 과정에서 올바른 자세와 운동 범위를 유지할 수 있도록 돕습니다. AI가 환자의 동작을 분석하고, 부정확한 동작이나 불균형한 자세를 실시간으로 감지하여 교정 안내를 제공합니다.
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/0f1b1775-70c0-4b90-9215-55cbcf5e7a7c" width="500" height="auto"/>
+  </br>:arrow_up_small: 재활운동 시작</br></br>
+  <img src="https://github.com/user-attachments/assets/5e0f5265-babb-49b3-b068-0c4e980e4e1a" width="500" height="auto"/>
+  </br>:arrow_up_small: 재활운동 중 - 자세 교정 피드백</br></br>
+  <img src="https://github.com/user-attachments/assets/a92711ae-e856-449d-9d89-9eea112e2b39" width="500" height="auto"/>
+  </br>:arrow_up_small: 재활운동 시작 - 긍정적 피드백</br></br>
+  <img src="https://github.com/user-attachments/assets/bf1f0b00-a769-447d-bf8f-2b7a24f8b041" width="500" height="auto"/>
+  </br>:arrow_up_small: 재활운동 완료</br>
 
 <br/>
 
@@ -60,6 +69,8 @@ Designed to help individuals reclaim their previous quality of life by enabling 
   <br/>
   <br/>
   사용자의 운동 데이터를 수집하여 재활 과정에서의 진전 상황을 기록하고 분석합니다. 일주일 동안 진행한 운동 횟수와 하루의 최고 정확도를 표시한 그래프를 제공함으로써 사용자가 본인의 프로그레스와 성장 정도를 한 눈에 파악하고 동기부여되도록 도울 수 있습니다.
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/d9e2498c-e3e6-4c23-a356-a2263560624a" width="200" height="auto"/>
 
 <br/>
 
